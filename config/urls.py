@@ -7,12 +7,14 @@ from evaluacion.api_views import (
     ProyectoViewSet,
     EvaluadorViewSet,
     CalificacionViewSet,
+    StatsViewSet,
 )
 
 router = DefaultRouter()
 router.register("proyectos", ProyectoViewSet)
 router.register("evaluadores", EvaluadorViewSet)
 router.register("calificaciones", CalificacionViewSet)
+router.register("estadisticas", StatsViewSet, basename="estadisticas")
 
 urlpatterns = [
     path("admin/", admin.site.urls),

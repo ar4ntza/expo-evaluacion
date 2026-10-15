@@ -1,5 +1,6 @@
-from django.db.models import Count
+from django.db.models import Count, Avg
 from rest_framework import viewsets
+from rest_framework.response import Response
 
 from .models import Proyecto, Evaluador, Calificacion
 from .serializers import ProyectoSerializer, EvaluadorSerializer, CalificacionSerializer
@@ -21,10 +22,6 @@ class ProyectoViewSet(viewsets.ModelViewSet):
             queryset = queryset.filter(titulo__icontains=titulo)
         if equipo:
             queryset = queryset.filter(equipo__icontains=equipo)
-        if categoria:
-            queryset = queryset.filter(categoria=categoria.upper())
-        if evaluador:
-            queryset = queryset.filter(evaluadores__id=evaluador)
 
         return queryset.distinct()
 
@@ -73,3 +70,82 @@ class CalificacionViewSet(viewsets.ModelViewSet):
             queryset = queryset.filter(puntaje__lte=puntaje_max)
 
         return queryset
+
+class StatsViewSet(viewsets.ViewSet):
+
+    def list(self, request):
+
+        # 1. total de proyectos
+        total_proyectos = Proyecto.objects.count()
+
+        # 2. promedio de calificacion por categoria
+        promedio_por_categoria = (
+            Proyecto.objects.values("categoria")
+            .annotate(
+                total_proyectos=Count("id"),
+                promedio=Avg("calificaciones__puntaje")
+            )
+            .order_by("categoria")
+        )
+
+        categorias = {
+            codigo: etiqueta
+            for codigo, etiqueta in Proyecto.Categoria.choices
+        }
+
+        stats_categoria = [
+            {
+                "categoria": categorias.get(
+                    item["categoria"], item["categoria"]
+                ),
+                "codigo": item["categoria"],
+                "total_proyectos": item["total_proyectos"],
+                "promedio": (
+                    round(float(item["promedio"]), 2)
+                    if item["promedio"] is not None
+                    else None
+                ),
+            }
+            for item in promedio_por_categoria
+        ]
+
+        # 3. ordenar de puntaje maximo a minimo
+        puntajes_desc = (
+            Proyecto.objects.annotate(
+                promedio=Avg("calificaciones__puntaje")
+            )
+            .filter(promedio__isnull=False)
+            .order_by("-promedio", "titulo")
+        )
+
+        # 4. ordenar de puntaje minimo a maximo
+        puntajes_asc = (
+            Proyecto.objects.annotate(
+                promedio=Avg("calificaciones__puntaje")
+            )
+            .filter(promedio__isnull=False)
+            .order_by("promedio", "titulo")
+        )
+
+        def proyectos_ordenados(queryset):
+            return [
+                {
+                    "id": proyecto.id,
+                    "titulo": proyecto.titulo,
+                    "equipo": proyecto.equipo,
+                    "categoria": proyecto.get_categoria_display(),
+                    "promedio": round(float(proyecto.promedio), 2),
+                }
+                for proyecto in queryset
+            ]
+
+        return Response({
+            "total_proyectos": total_proyectos,
+            "promedio_por_categoria": stats_categoria,
+            "puntaje_maximo_a_minimo": proyectos_ordenados(
+                puntajes_desc
+            ),
+            "puntaje_minimo_a_maximo": proyectos_ordenados(
+                puntajes_asc
+            ),
+        })
