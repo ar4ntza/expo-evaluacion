@@ -1,0 +1,2404 @@
+{
+  "evaluadores": [
+    {
+      "nombre": "Ana Martínez",
+      "correo": "evaluador01@ejemplo.com"
+    },
+    {
+      "nombre": "Luis Hernández",
+      "correo": "evaluador02@ejemplo.com"
+    },
+    {
+      "nombre": "Sofía López",
+      "correo": "evaluador03@ejemplo.com"
+    },
+    {
+      "nombre": "Diego González",
+      "correo": "evaluador04@ejemplo.com"
+    },
+    {
+      "nombre": "Valeria Pérez",
+      "correo": "evaluador05@ejemplo.com"
+    },
+    {
+      "nombre": "Carlos Sánchez",
+      "correo": "evaluador06@ejemplo.com"
+    },
+    {
+      "nombre": "Mariana Ramírez",
+      "correo": "evaluador07@ejemplo.com"
+    },
+    {
+      "nombre": "Jorge Torres",
+      "correo": "evaluador08@ejemplo.com"
+    },
+    {
+      "nombre": "Camila Flores",
+      "correo": "evaluador09@ejemplo.com"
+    },
+    {
+      "nombre": "Andrés Rivera",
+      "correo": "evaluador10@ejemplo.com"
+    },
+    {
+      "nombre": "Fernanda Gómez",
+      "correo": "evaluador11@ejemplo.com"
+    },
+    {
+      "nombre": "Daniel Díaz",
+      "correo": "evaluador12@ejemplo.com"
+    },
+    {
+      "nombre": "Renata Cruz",
+      "correo": "evaluador13@ejemplo.com"
+    },
+    {
+      "nombre": "Miguel Morales",
+      "correo": "evaluador14@ejemplo.com"
+    },
+    {
+      "nombre": "Paola Ortiz",
+      "correo": "evaluador15@ejemplo.com"
+    },
+    {
+      "nombre": "Emiliano Reyes",
+      "correo": "evaluador16@ejemplo.com"
+    },
+    {
+      "nombre": "Regina Castillo",
+      "correo": "evaluador17@ejemplo.com"
+    },
+    {
+      "nombre": "Sebastián Jiménez",
+      "correo": "evaluador18@ejemplo.com"
+    },
+    {
+      "nombre": "Natalia Vargas",
+      "correo": "evaluador19@ejemplo.com"
+    },
+    {
+      "nombre": "Pablo Mendoza",
+      "correo": "evaluador20@ejemplo.com"
+    },
+    {
+      "nombre": "Ximena Romero",
+      "correo": "evaluador21@ejemplo.com"
+    },
+    {
+      "nombre": "Mateo Aguilar",
+      "correo": "evaluador22@ejemplo.com"
+    },
+    {
+      "nombre": "Lucía Navarro",
+      "correo": "evaluador23@ejemplo.com"
+    },
+    {
+      "nombre": "Iván Rojas",
+      "correo": "evaluador24@ejemplo.com"
+    }
+  ],
+  "proyectos": [
+    {
+      "titulo": "Plataforma de tutorías entre estudiantes",
+      "equipo": "Byte Creativo",
+      "categoria": "SW"
+    },
+    {
+      "titulo": "Sistema de préstamo de equipo universitario",
+      "equipo": "Nexo Digital",
+      "categoria": "SW"
+    },
+    {
+      "titulo": "Aplicación para organizar tareas académicas",
+      "equipo": "Código Verde",
+      "categoria": "SW"
+    },
+    {
+      "titulo": "Gestor digital de servicio social",
+      "equipo": "Mentes en Red",
+      "categoria": "SW"
+    },
+    {
+      "titulo": "Sistema de inventario para laboratorios",
+      "equipo": "Nova Tech",
+      "categoria": "SW"
+    },
+    {
+      "titulo": "Aplicación de rutas seguras en campus",
+      "equipo": "Pixel Lab",
+      "categoria": "SW"
+    },
+    {
+      "titulo": "Plataforma de intercambio de libros",
+      "equipo": "Circuito Abierto",
+      "categoria": "SW"
+    },
+    {
+      "titulo": "Sistema de reservación de salas",
+      "equipo": "Equipo Horizonte",
+      "categoria": "SW"
+    },
+    {
+      "titulo": "Aplicación para reportar incidencias",
+      "equipo": "TecnoRaíces",
+      "categoria": "SW"
+    },
+    {
+      "titulo": "Portal de seguimiento de proyectos",
+      "equipo": "DataLab",
+      "categoria": "SW"
+    },
+    {
+      "titulo": "Estación meteorológica de bajo costo",
+      "equipo": "Punto Cero",
+      "categoria": "HW"
+    },
+    {
+      "titulo": "Contenedor inteligente para reciclaje",
+      "equipo": "InnovAcción",
+      "categoria": "HW"
+    },
+    {
+      "titulo": "Sensor de calidad del aire",
+      "equipo": "Órbita Digital",
+      "categoria": "HW"
+    },
+    {
+      "titulo": "Sistema de riego automatizado",
+      "equipo": "Conecta Lab",
+      "categoria": "HW"
+    },
+    {
+      "titulo": "Bastón electrónico para orientación",
+      "equipo": "Prisma Tech",
+      "categoria": "HW"
+    },
+    {
+      "titulo": "Monitor de consumo eléctrico",
+      "equipo": "Nodo Creativo",
+      "categoria": "HW"
+    },
+    {
+      "titulo": "Dispositivo para medir ruido ambiental",
+      "equipo": "Sinergia",
+      "categoria": "HW"
+    },
+    {
+      "titulo": "Prototipo de iluminación inteligente",
+      "equipo": "Vector Uno",
+      "categoria": "HW"
+    },
+    {
+      "titulo": "Pulsera de alerta para emergencias",
+      "equipo": "Impulso Digital",
+      "categoria": "HW"
+    },
+    {
+      "titulo": "Cerradura electrónica para laboratorios",
+      "equipo": "Futuro Compartido",
+      "categoria": "HW"
+    },
+    {
+      "titulo": "Clasificador de residuos con visión artificial",
+      "equipo": "Byte Creativo",
+      "categoria": "IA"
+    },
+    {
+      "titulo": "Asistente virtual para dudas escolares",
+      "equipo": "Nexo Digital",
+      "categoria": "IA"
+    },
+    {
+      "titulo": "Detector de noticias falsas en español",
+      "equipo": "Código Verde",
+      "categoria": "IA"
+    },
+    {
+      "titulo": "Modelo para predecir demanda energética",
+      "equipo": "Mentes en Red",
+      "categoria": "IA"
+    },
+    {
+      "titulo": "Reconocimiento de señas mediante cámara",
+      "equipo": "Nova Tech",
+      "categoria": "IA"
+    },
+    {
+      "titulo": "Detección de audio sintético",
+      "equipo": "Pixel Lab",
+      "categoria": "IA"
+    },
+    {
+      "titulo": "Recomendador de materiales de estudio",
+      "equipo": "Circuito Abierto",
+      "categoria": "IA"
+    },
+    {
+      "titulo": "Análisis de opiniones sobre servicios",
+      "equipo": "Equipo Horizonte",
+      "categoria": "IA"
+    },
+    {
+      "titulo": "Identificación de plantas por imagen",
+      "equipo": "TecnoRaíces",
+      "categoria": "IA"
+    },
+    {
+      "titulo": "Predicción de ocupación de estacionamientos",
+      "equipo": "DataLab",
+      "categoria": "IA"
+    },
+    {
+      "titulo": "Red de apoyo para estudiantes de nuevo ingreso",
+      "equipo": "Punto Cero",
+      "categoria": "SO"
+    },
+    {
+      "titulo": "Banco comunitario de alimentos",
+      "equipo": "InnovAcción",
+      "categoria": "SO"
+    },
+    {
+      "titulo": "Mapa de accesibilidad de espacios públicos",
+      "equipo": "Órbita Digital",
+      "categoria": "SO"
+    },
+    {
+      "titulo": "Talleres digitales para adultos mayores",
+      "equipo": "Conecta Lab",
+      "categoria": "SO"
+    },
+    {
+      "titulo": "Plataforma de voluntariado local",
+      "equipo": "Prisma Tech",
+      "categoria": "SO"
+    },
+    {
+      "titulo": "Campaña para reducir desperdicio de comida",
+      "equipo": "Nodo Creativo",
+      "categoria": "SO"
+    },
+    {
+      "titulo": "Sistema de donación de útiles escolares",
+      "equipo": "Sinergia",
+      "categoria": "SO"
+    },
+    {
+      "titulo": "Directorio de servicios de salud comunitaria",
+      "equipo": "Vector Uno",
+      "categoria": "SO"
+    },
+    {
+      "titulo": "Programa de alfabetización tecnológica",
+      "equipo": "Impulso Digital",
+      "categoria": "SO"
+    },
+    {
+      "titulo": "Huerto comunitario con seguimiento digital",
+      "equipo": "Futuro Compartido",
+      "categoria": "SO"
+    },
+    {
+      "titulo": "Plataforma de tutorías entre estudiantes: edición 2",
+      "equipo": "Byte Creativo",
+      "categoria": "SW"
+    },
+    {
+      "titulo": "Sistema de préstamo de equipo universitario: edición 2",
+      "equipo": "Nexo Digital",
+      "categoria": "SW"
+    },
+    {
+      "titulo": "Aplicación para organizar tareas académicas: edición 2",
+      "equipo": "Código Verde",
+      "categoria": "SW"
+    },
+    {
+      "titulo": "Gestor digital de servicio social: edición 2",
+      "equipo": "Mentes en Red",
+      "categoria": "SW"
+    },
+    {
+      "titulo": "Sistema de inventario para laboratorios: edición 2",
+      "equipo": "Nova Tech",
+      "categoria": "SW"
+    },
+    {
+      "titulo": "Aplicación de rutas seguras en campus: edición 2",
+      "equipo": "Pixel Lab",
+      "categoria": "SW"
+    },
+    {
+      "titulo": "Plataforma de intercambio de libros: edición 2",
+      "equipo": "Circuito Abierto",
+      "categoria": "SW"
+    },
+    {
+      "titulo": "Sistema de reservación de salas: edición 2",
+      "equipo": "Equipo Horizonte",
+      "categoria": "SW"
+    },
+    {
+      "titulo": "Aplicación para reportar incidencias: edición 2",
+      "equipo": "TecnoRaíces",
+      "categoria": "SW"
+    },
+    {
+      "titulo": "Portal de seguimiento de proyectos: edición 2",
+      "equipo": "DataLab",
+      "categoria": "SW"
+    },
+    {
+      "titulo": "Estación meteorológica de bajo costo: edición 2",
+      "equipo": "Punto Cero",
+      "categoria": "HW"
+    },
+    {
+      "titulo": "Contenedor inteligente para reciclaje: edición 2",
+      "equipo": "InnovAcción",
+      "categoria": "HW"
+    },
+    {
+      "titulo": "Sensor de calidad del aire: edición 2",
+      "equipo": "Órbita Digital",
+      "categoria": "HW"
+    },
+    {
+      "titulo": "Sistema de riego automatizado: edición 2",
+      "equipo": "Conecta Lab",
+      "categoria": "HW"
+    },
+    {
+      "titulo": "Bastón electrónico para orientación: edición 2",
+      "equipo": "Prisma Tech",
+      "categoria": "HW"
+    },
+    {
+      "titulo": "Monitor de consumo eléctrico: edición 2",
+      "equipo": "Nodo Creativo",
+      "categoria": "HW"
+    },
+    {
+      "titulo": "Dispositivo para medir ruido ambiental: edición 2",
+      "equipo": "Sinergia",
+      "categoria": "HW"
+    },
+    {
+      "titulo": "Prototipo de iluminación inteligente: edición 2",
+      "equipo": "Vector Uno",
+      "categoria": "HW"
+    },
+    {
+      "titulo": "Pulsera de alerta para emergencias: edición 2",
+      "equipo": "Impulso Digital",
+      "categoria": "HW"
+    },
+    {
+      "titulo": "Cerradura electrónica para laboratorios: edición 2",
+      "equipo": "Futuro Compartido",
+      "categoria": "HW"
+    },
+    {
+      "titulo": "Clasificador de residuos con visión artificial: edición 2",
+      "equipo": "Byte Creativo",
+      "categoria": "IA"
+    },
+    {
+      "titulo": "Asistente virtual para dudas escolares: edición 2",
+      "equipo": "Nexo Digital",
+      "categoria": "IA"
+    },
+    {
+      "titulo": "Detector de noticias falsas en español: edición 2",
+      "equipo": "Código Verde",
+      "categoria": "IA"
+    },
+    {
+      "titulo": "Modelo para predecir demanda energética: edición 2",
+      "equipo": "Mentes en Red",
+      "categoria": "IA"
+    },
+    {
+      "titulo": "Reconocimiento de señas mediante cámara: edición 2",
+      "equipo": "Nova Tech",
+      "categoria": "IA"
+    },
+    {
+      "titulo": "Detección de audio sintético: edición 2",
+      "equipo": "Pixel Lab",
+      "categoria": "IA"
+    },
+    {
+      "titulo": "Recomendador de materiales de estudio: edición 2",
+      "equipo": "Circuito Abierto",
+      "categoria": "IA"
+    },
+    {
+      "titulo": "Análisis de opiniones sobre servicios: edición 2",
+      "equipo": "Equipo Horizonte",
+      "categoria": "IA"
+    },
+    {
+      "titulo": "Identificación de plantas por imagen: edición 2",
+      "equipo": "TecnoRaíces",
+      "categoria": "IA"
+    },
+    {
+      "titulo": "Predicción de ocupación de estacionamientos: edición 2",
+      "equipo": "DataLab",
+      "categoria": "IA"
+    },
+    {
+      "titulo": "Red de apoyo para estudiantes de nuevo ingreso: edición 2",
+      "equipo": "Punto Cero",
+      "categoria": "SO"
+    },
+    {
+      "titulo": "Banco comunitario de alimentos: edición 2",
+      "equipo": "InnovAcción",
+      "categoria": "SO"
+    },
+    {
+      "titulo": "Mapa de accesibilidad de espacios públicos: edición 2",
+      "equipo": "Órbita Digital",
+      "categoria": "SO"
+    },
+    {
+      "titulo": "Talleres digitales para adultos mayores: edición 2",
+      "equipo": "Conecta Lab",
+      "categoria": "SO"
+    },
+    {
+      "titulo": "Plataforma de voluntariado local: edición 2",
+      "equipo": "Prisma Tech",
+      "categoria": "SO"
+    },
+    {
+      "titulo": "Campaña para reducir desperdicio de comida: edición 2",
+      "equipo": "Nodo Creativo",
+      "categoria": "SO"
+    },
+    {
+      "titulo": "Sistema de donación de útiles escolares: edición 2",
+      "equipo": "Sinergia",
+      "categoria": "SO"
+    },
+    {
+      "titulo": "Directorio de servicios de salud comunitaria: edición 2",
+      "equipo": "Vector Uno",
+      "categoria": "SO"
+    },
+    {
+      "titulo": "Programa de alfabetización tecnológica: edición 2",
+      "equipo": "Impulso Digital",
+      "categoria": "SO"
+    },
+    {
+      "titulo": "Huerto comunitario con seguimiento digital: edición 2",
+      "equipo": "Futuro Compartido",
+      "categoria": "SO"
+    },
+    {
+      "titulo": "Plataforma de tutorías entre estudiantes inclusivo",
+      "equipo": "Byte Creativo",
+      "categoria": "SW"
+    },
+    {
+      "titulo": "Sistema de préstamo de equipo universitario colaborativo",
+      "equipo": "Nexo Digital",
+      "categoria": "SW"
+    },
+    {
+      "titulo": "Aplicación para organizar tareas académicas accesible",
+      "equipo": "Código Verde",
+      "categoria": "SW"
+    },
+    {
+      "titulo": "Gestor digital de servicio social universitario",
+      "equipo": "Mentes en Red",
+      "categoria": "SW"
+    },
+    {
+      "titulo": "Sistema de inventario para laboratorios comunitario",
+      "equipo": "Nova Tech",
+      "categoria": "SW"
+    },
+    {
+      "titulo": "Aplicación de rutas seguras en campus automatizado",
+      "equipo": "Pixel Lab",
+      "categoria": "SW"
+    },
+    {
+      "titulo": "Plataforma de intercambio de libros predictivo",
+      "equipo": "Circuito Abierto",
+      "categoria": "SW"
+    },
+    {
+      "titulo": "Sistema de reservación de salas interactivo",
+      "equipo": "Equipo Horizonte",
+      "categoria": "SW"
+    },
+    {
+      "titulo": "Aplicación para reportar incidencias sostenible",
+      "equipo": "TecnoRaíces",
+      "categoria": "SW"
+    },
+    {
+      "titulo": "Portal de seguimiento de proyectos inteligente",
+      "equipo": "DataLab",
+      "categoria": "SW"
+    },
+    {
+      "titulo": "Estación meteorológica de bajo costo inclusivo",
+      "equipo": "Punto Cero",
+      "categoria": "HW"
+    },
+    {
+      "titulo": "Contenedor inteligente para reciclaje colaborativo",
+      "equipo": "InnovAcción",
+      "categoria": "HW"
+    },
+    {
+      "titulo": "Sensor de calidad del aire accesible",
+      "equipo": "Órbita Digital",
+      "categoria": "HW"
+    },
+    {
+      "titulo": "Sistema de riego automatizado universitario",
+      "equipo": "Conecta Lab",
+      "categoria": "HW"
+    },
+    {
+      "titulo": "Bastón electrónico para orientación comunitario",
+      "equipo": "Prisma Tech",
+      "categoria": "HW"
+    },
+    {
+      "titulo": "Monitor de consumo eléctrico automatizado",
+      "equipo": "Nodo Creativo",
+      "categoria": "HW"
+    },
+    {
+      "titulo": "Dispositivo para medir ruido ambiental predictivo",
+      "equipo": "Sinergia",
+      "categoria": "HW"
+    },
+    {
+      "titulo": "Prototipo de iluminación inteligente interactivo",
+      "equipo": "Vector Uno",
+      "categoria": "HW"
+    },
+    {
+      "titulo": "Pulsera de alerta para emergencias sostenible",
+      "equipo": "Impulso Digital",
+      "categoria": "HW"
+    },
+    {
+      "titulo": "Cerradura electrónica para laboratorios inteligente",
+      "equipo": "Futuro Compartido",
+      "categoria": "HW"
+    }
+  ],
+  "calificaciones": [
+    {
+      "proyecto_titulo": "Plataforma de tutorías entre estudiantes",
+      "evaluador_correo": "evaluador01@ejemplo.com",
+      "puntaje": "6.00",
+      "comentario": "Propuesta clara y bien estructurada."
+    },
+    {
+      "proyecto_titulo": "Plataforma de tutorías entre estudiantes",
+      "evaluador_correo": "evaluador02@ejemplo.com",
+      "puntaje": "7.10",
+      "comentario": "Buena solución; podría mejorar la documentación."
+    },
+    {
+      "proyecto_titulo": "Plataforma de tutorías entre estudiantes",
+      "evaluador_correo": "evaluador03@ejemplo.com",
+      "puntaje": "8.20",
+      "comentario": "La idea es pertinente y tiene potencial de aplicación."
+    },
+    {
+      "proyecto_titulo": "Sistema de préstamo de equipo universitario",
+      "evaluador_correo": "evaluador04@ejemplo.com",
+      "puntaje": "6.70",
+      "comentario": "Buena solución; podría mejorar la documentación."
+    },
+    {
+      "proyecto_titulo": "Sistema de préstamo de equipo universitario",
+      "evaluador_correo": "evaluador05@ejemplo.com",
+      "puntaje": "7.80",
+      "comentario": "La idea es pertinente y tiene potencial de aplicación."
+    },
+    {
+      "proyecto_titulo": "Sistema de préstamo de equipo universitario",
+      "evaluador_correo": "evaluador06@ejemplo.com",
+      "puntaje": "8.90",
+      "comentario": "Buen prototipo, se recomienda validar con más usuarios."
+    },
+    {
+      "proyecto_titulo": "Aplicación para organizar tareas académicas",
+      "evaluador_correo": "evaluador07@ejemplo.com",
+      "puntaje": "7.40",
+      "comentario": "La idea es pertinente y tiene potencial de aplicación."
+    },
+    {
+      "proyecto_titulo": "Aplicación para organizar tareas académicas",
+      "evaluador_correo": "evaluador08@ejemplo.com",
+      "puntaje": "8.50",
+      "comentario": "Buen prototipo, se recomienda validar con más usuarios."
+    },
+    {
+      "proyecto_titulo": "Aplicación para organizar tareas académicas",
+      "evaluador_correo": "evaluador09@ejemplo.com",
+      "puntaje": "9.60",
+      "comentario": "Presentación sólida y objetivos bien definidos."
+    },
+    {
+      "proyecto_titulo": "Gestor digital de servicio social",
+      "evaluador_correo": "evaluador10@ejemplo.com",
+      "puntaje": "8.10",
+      "comentario": "Buen prototipo, se recomienda validar con más usuarios."
+    },
+    {
+      "proyecto_titulo": "Gestor digital de servicio social",
+      "evaluador_correo": "evaluador11@ejemplo.com",
+      "puntaje": "9.20",
+      "comentario": "Presentación sólida y objetivos bien definidos."
+    },
+    {
+      "proyecto_titulo": "Gestor digital de servicio social",
+      "evaluador_correo": "evaluador12@ejemplo.com",
+      "puntaje": "6.20",
+      "comentario": "Interesante enfoque técnico; falta detallar las pruebas."
+    },
+    {
+      "proyecto_titulo": "Sistema de inventario para laboratorios",
+      "evaluador_correo": "evaluador13@ejemplo.com",
+      "puntaje": "8.80",
+      "comentario": "Presentación sólida y objetivos bien definidos."
+    },
+    {
+      "proyecto_titulo": "Sistema de inventario para laboratorios",
+      "evaluador_correo": "evaluador14@ejemplo.com",
+      "puntaje": "9.90",
+      "comentario": "Interesante enfoque técnico; falta detallar las pruebas."
+    },
+    {
+      "proyecto_titulo": "Sistema de inventario para laboratorios",
+      "evaluador_correo": "evaluador15@ejemplo.com",
+      "puntaje": "6.90",
+      "comentario": "Impacto potencial positivo y alcance bien planteado."
+    },
+    {
+      "proyecto_titulo": "Aplicación de rutas seguras en campus",
+      "evaluador_correo": "evaluador16@ejemplo.com",
+      "puntaje": "9.50",
+      "comentario": "Interesante enfoque técnico; falta detallar las pruebas."
+    },
+    {
+      "proyecto_titulo": "Aplicación de rutas seguras en campus",
+      "evaluador_correo": "evaluador17@ejemplo.com",
+      "puntaje": "6.50",
+      "comentario": "Impacto potencial positivo y alcance bien planteado."
+    },
+    {
+      "proyecto_titulo": "Aplicación de rutas seguras en campus",
+      "evaluador_correo": "evaluador18@ejemplo.com",
+      "puntaje": "7.60",
+      "comentario": "El equipo identificó correctamente el problema."
+    },
+    {
+      "proyecto_titulo": "Plataforma de intercambio de libros",
+      "evaluador_correo": "evaluador19@ejemplo.com",
+      "puntaje": "6.10",
+      "comentario": "Impacto potencial positivo y alcance bien planteado."
+    },
+    {
+      "proyecto_titulo": "Plataforma de intercambio de libros",
+      "evaluador_correo": "evaluador20@ejemplo.com",
+      "puntaje": "7.20",
+      "comentario": "El equipo identificó correctamente el problema."
+    },
+    {
+      "proyecto_titulo": "Plataforma de intercambio de libros",
+      "evaluador_correo": "evaluador21@ejemplo.com",
+      "puntaje": "8.30",
+      "comentario": "Se recomienda fortalecer la evaluación de resultados."
+    },
+    {
+      "proyecto_titulo": "Sistema de reservación de salas",
+      "evaluador_correo": "evaluador22@ejemplo.com",
+      "puntaje": "6.80",
+      "comentario": "El equipo identificó correctamente el problema."
+    },
+    {
+      "proyecto_titulo": "Sistema de reservación de salas",
+      "evaluador_correo": "evaluador23@ejemplo.com",
+      "puntaje": "7.90",
+      "comentario": "Se recomienda fortalecer la evaluación de resultados."
+    },
+    {
+      "proyecto_titulo": "Sistema de reservación de salas",
+      "evaluador_correo": "evaluador24@ejemplo.com",
+      "puntaje": "9.00",
+      "comentario": "Proyecto prometedor con oportunidades de mejora."
+    },
+    {
+      "proyecto_titulo": "Aplicación para reportar incidencias",
+      "evaluador_correo": "evaluador01@ejemplo.com",
+      "puntaje": "7.50",
+      "comentario": "Se recomienda fortalecer la evaluación de resultados."
+    },
+    {
+      "proyecto_titulo": "Aplicación para reportar incidencias",
+      "evaluador_correo": "evaluador02@ejemplo.com",
+      "puntaje": "8.60",
+      "comentario": "Proyecto prometedor con oportunidades de mejora."
+    },
+    {
+      "proyecto_titulo": "Aplicación para reportar incidencias",
+      "evaluador_correo": "evaluador03@ejemplo.com",
+      "puntaje": "9.70",
+      "comentario": "Propuesta clara y bien estructurada."
+    },
+    {
+      "proyecto_titulo": "Portal de seguimiento de proyectos",
+      "evaluador_correo": "evaluador04@ejemplo.com",
+      "puntaje": "8.20",
+      "comentario": "Proyecto prometedor con oportunidades de mejora."
+    },
+    {
+      "proyecto_titulo": "Portal de seguimiento de proyectos",
+      "evaluador_correo": "evaluador05@ejemplo.com",
+      "puntaje": "9.30",
+      "comentario": "Propuesta clara y bien estructurada."
+    },
+    {
+      "proyecto_titulo": "Portal de seguimiento de proyectos",
+      "evaluador_correo": "evaluador06@ejemplo.com",
+      "puntaje": "6.30",
+      "comentario": "Buena solución; podría mejorar la documentación."
+    },
+    {
+      "proyecto_titulo": "Estación meteorológica de bajo costo",
+      "evaluador_correo": "evaluador07@ejemplo.com",
+      "puntaje": "8.90",
+      "comentario": "Propuesta clara y bien estructurada."
+    },
+    {
+      "proyecto_titulo": "Estación meteorológica de bajo costo",
+      "evaluador_correo": "evaluador08@ejemplo.com",
+      "puntaje": "10.00",
+      "comentario": "Buena solución; podría mejorar la documentación."
+    },
+    {
+      "proyecto_titulo": "Estación meteorológica de bajo costo",
+      "evaluador_correo": "evaluador09@ejemplo.com",
+      "puntaje": "7.00",
+      "comentario": "La idea es pertinente y tiene potencial de aplicación."
+    },
+    {
+      "proyecto_titulo": "Contenedor inteligente para reciclaje",
+      "evaluador_correo": "evaluador10@ejemplo.com",
+      "puntaje": "9.60",
+      "comentario": "Buena solución; podría mejorar la documentación."
+    },
+    {
+      "proyecto_titulo": "Contenedor inteligente para reciclaje",
+      "evaluador_correo": "evaluador11@ejemplo.com",
+      "puntaje": "6.60",
+      "comentario": "La idea es pertinente y tiene potencial de aplicación."
+    },
+    {
+      "proyecto_titulo": "Contenedor inteligente para reciclaje",
+      "evaluador_correo": "evaluador12@ejemplo.com",
+      "puntaje": "7.70",
+      "comentario": "Buen prototipo, se recomienda validar con más usuarios."
+    },
+    {
+      "proyecto_titulo": "Sensor de calidad del aire",
+      "evaluador_correo": "evaluador13@ejemplo.com",
+      "puntaje": "6.20",
+      "comentario": "La idea es pertinente y tiene potencial de aplicación."
+    },
+    {
+      "proyecto_titulo": "Sensor de calidad del aire",
+      "evaluador_correo": "evaluador14@ejemplo.com",
+      "puntaje": "7.30",
+      "comentario": "Buen prototipo, se recomienda validar con más usuarios."
+    },
+    {
+      "proyecto_titulo": "Sensor de calidad del aire",
+      "evaluador_correo": "evaluador15@ejemplo.com",
+      "puntaje": "8.40",
+      "comentario": "Presentación sólida y objetivos bien definidos."
+    },
+    {
+      "proyecto_titulo": "Sistema de riego automatizado",
+      "evaluador_correo": "evaluador16@ejemplo.com",
+      "puntaje": "6.90",
+      "comentario": "Buen prototipo, se recomienda validar con más usuarios."
+    },
+    {
+      "proyecto_titulo": "Sistema de riego automatizado",
+      "evaluador_correo": "evaluador17@ejemplo.com",
+      "puntaje": "8.00",
+      "comentario": "Presentación sólida y objetivos bien definidos."
+    },
+    {
+      "proyecto_titulo": "Sistema de riego automatizado",
+      "evaluador_correo": "evaluador18@ejemplo.com",
+      "puntaje": "9.10",
+      "comentario": "Interesante enfoque técnico; falta detallar las pruebas."
+    },
+    {
+      "proyecto_titulo": "Bastón electrónico para orientación",
+      "evaluador_correo": "evaluador19@ejemplo.com",
+      "puntaje": "7.60",
+      "comentario": "Presentación sólida y objetivos bien definidos."
+    },
+    {
+      "proyecto_titulo": "Bastón electrónico para orientación",
+      "evaluador_correo": "evaluador20@ejemplo.com",
+      "puntaje": "8.70",
+      "comentario": "Interesante enfoque técnico; falta detallar las pruebas."
+    },
+    {
+      "proyecto_titulo": "Bastón electrónico para orientación",
+      "evaluador_correo": "evaluador21@ejemplo.com",
+      "puntaje": "9.80",
+      "comentario": "Impacto potencial positivo y alcance bien planteado."
+    },
+    {
+      "proyecto_titulo": "Monitor de consumo eléctrico",
+      "evaluador_correo": "evaluador22@ejemplo.com",
+      "puntaje": "8.30",
+      "comentario": "Interesante enfoque técnico; falta detallar las pruebas."
+    },
+    {
+      "proyecto_titulo": "Monitor de consumo eléctrico",
+      "evaluador_correo": "evaluador23@ejemplo.com",
+      "puntaje": "9.40",
+      "comentario": "Impacto potencial positivo y alcance bien planteado."
+    },
+    {
+      "proyecto_titulo": "Monitor de consumo eléctrico",
+      "evaluador_correo": "evaluador24@ejemplo.com",
+      "puntaje": "6.40",
+      "comentario": "El equipo identificó correctamente el problema."
+    },
+    {
+      "proyecto_titulo": "Dispositivo para medir ruido ambiental",
+      "evaluador_correo": "evaluador01@ejemplo.com",
+      "puntaje": "9.00",
+      "comentario": "Impacto potencial positivo y alcance bien planteado."
+    },
+    {
+      "proyecto_titulo": "Dispositivo para medir ruido ambiental",
+      "evaluador_correo": "evaluador02@ejemplo.com",
+      "puntaje": "6.00",
+      "comentario": "El equipo identificó correctamente el problema."
+    },
+    {
+      "proyecto_titulo": "Dispositivo para medir ruido ambiental",
+      "evaluador_correo": "evaluador03@ejemplo.com",
+      "puntaje": "7.10",
+      "comentario": "Se recomienda fortalecer la evaluación de resultados."
+    },
+    {
+      "proyecto_titulo": "Prototipo de iluminación inteligente",
+      "evaluador_correo": "evaluador04@ejemplo.com",
+      "puntaje": "9.70",
+      "comentario": "El equipo identificó correctamente el problema."
+    },
+    {
+      "proyecto_titulo": "Prototipo de iluminación inteligente",
+      "evaluador_correo": "evaluador05@ejemplo.com",
+      "puntaje": "6.70",
+      "comentario": "Se recomienda fortalecer la evaluación de resultados."
+    },
+    {
+      "proyecto_titulo": "Prototipo de iluminación inteligente",
+      "evaluador_correo": "evaluador06@ejemplo.com",
+      "puntaje": "7.80",
+      "comentario": "Proyecto prometedor con oportunidades de mejora."
+    },
+    {
+      "proyecto_titulo": "Pulsera de alerta para emergencias",
+      "evaluador_correo": "evaluador07@ejemplo.com",
+      "puntaje": "6.30",
+      "comentario": "Se recomienda fortalecer la evaluación de resultados."
+    },
+    {
+      "proyecto_titulo": "Pulsera de alerta para emergencias",
+      "evaluador_correo": "evaluador08@ejemplo.com",
+      "puntaje": "7.40",
+      "comentario": "Proyecto prometedor con oportunidades de mejora."
+    },
+    {
+      "proyecto_titulo": "Pulsera de alerta para emergencias",
+      "evaluador_correo": "evaluador09@ejemplo.com",
+      "puntaje": "8.50",
+      "comentario": "Propuesta clara y bien estructurada."
+    },
+    {
+      "proyecto_titulo": "Cerradura electrónica para laboratorios",
+      "evaluador_correo": "evaluador10@ejemplo.com",
+      "puntaje": "7.00",
+      "comentario": "Proyecto prometedor con oportunidades de mejora."
+    },
+    {
+      "proyecto_titulo": "Cerradura electrónica para laboratorios",
+      "evaluador_correo": "evaluador11@ejemplo.com",
+      "puntaje": "8.10",
+      "comentario": "Propuesta clara y bien estructurada."
+    },
+    {
+      "proyecto_titulo": "Cerradura electrónica para laboratorios",
+      "evaluador_correo": "evaluador12@ejemplo.com",
+      "puntaje": "9.20",
+      "comentario": "Buena solución; podría mejorar la documentación."
+    },
+    {
+      "proyecto_titulo": "Clasificador de residuos con visión artificial",
+      "evaluador_correo": "evaluador13@ejemplo.com",
+      "puntaje": "7.70",
+      "comentario": "Propuesta clara y bien estructurada."
+    },
+    {
+      "proyecto_titulo": "Clasificador de residuos con visión artificial",
+      "evaluador_correo": "evaluador14@ejemplo.com",
+      "puntaje": "8.80",
+      "comentario": "Buena solución; podría mejorar la documentación."
+    },
+    {
+      "proyecto_titulo": "Clasificador de residuos con visión artificial",
+      "evaluador_correo": "evaluador15@ejemplo.com",
+      "puntaje": "9.90",
+      "comentario": "La idea es pertinente y tiene potencial de aplicación."
+    },
+    {
+      "proyecto_titulo": "Asistente virtual para dudas escolares",
+      "evaluador_correo": "evaluador16@ejemplo.com",
+      "puntaje": "8.40",
+      "comentario": "Buena solución; podría mejorar la documentación."
+    },
+    {
+      "proyecto_titulo": "Asistente virtual para dudas escolares",
+      "evaluador_correo": "evaluador17@ejemplo.com",
+      "puntaje": "9.50",
+      "comentario": "La idea es pertinente y tiene potencial de aplicación."
+    },
+    {
+      "proyecto_titulo": "Asistente virtual para dudas escolares",
+      "evaluador_correo": "evaluador18@ejemplo.com",
+      "puntaje": "6.50",
+      "comentario": "Buen prototipo, se recomienda validar con más usuarios."
+    },
+    {
+      "proyecto_titulo": "Detector de noticias falsas en español",
+      "evaluador_correo": "evaluador19@ejemplo.com",
+      "puntaje": "9.10",
+      "comentario": "La idea es pertinente y tiene potencial de aplicación."
+    },
+    {
+      "proyecto_titulo": "Detector de noticias falsas en español",
+      "evaluador_correo": "evaluador20@ejemplo.com",
+      "puntaje": "6.10",
+      "comentario": "Buen prototipo, se recomienda validar con más usuarios."
+    },
+    {
+      "proyecto_titulo": "Detector de noticias falsas en español",
+      "evaluador_correo": "evaluador21@ejemplo.com",
+      "puntaje": "7.20",
+      "comentario": "Presentación sólida y objetivos bien definidos."
+    },
+    {
+      "proyecto_titulo": "Modelo para predecir demanda energética",
+      "evaluador_correo": "evaluador22@ejemplo.com",
+      "puntaje": "9.80",
+      "comentario": "Buen prototipo, se recomienda validar con más usuarios."
+    },
+    {
+      "proyecto_titulo": "Modelo para predecir demanda energética",
+      "evaluador_correo": "evaluador23@ejemplo.com",
+      "puntaje": "6.80",
+      "comentario": "Presentación sólida y objetivos bien definidos."
+    },
+    {
+      "proyecto_titulo": "Modelo para predecir demanda energética",
+      "evaluador_correo": "evaluador24@ejemplo.com",
+      "puntaje": "7.90",
+      "comentario": "Interesante enfoque técnico; falta detallar las pruebas."
+    },
+    {
+      "proyecto_titulo": "Reconocimiento de señas mediante cámara",
+      "evaluador_correo": "evaluador01@ejemplo.com",
+      "puntaje": "6.40",
+      "comentario": "Presentación sólida y objetivos bien definidos."
+    },
+    {
+      "proyecto_titulo": "Reconocimiento de señas mediante cámara",
+      "evaluador_correo": "evaluador02@ejemplo.com",
+      "puntaje": "7.50",
+      "comentario": "Interesante enfoque técnico; falta detallar las pruebas."
+    },
+    {
+      "proyecto_titulo": "Reconocimiento de señas mediante cámara",
+      "evaluador_correo": "evaluador03@ejemplo.com",
+      "puntaje": "8.60",
+      "comentario": "Impacto potencial positivo y alcance bien planteado."
+    },
+    {
+      "proyecto_titulo": "Detección de audio sintético",
+      "evaluador_correo": "evaluador04@ejemplo.com",
+      "puntaje": "7.10",
+      "comentario": "Interesante enfoque técnico; falta detallar las pruebas."
+    },
+    {
+      "proyecto_titulo": "Detección de audio sintético",
+      "evaluador_correo": "evaluador05@ejemplo.com",
+      "puntaje": "8.20",
+      "comentario": "Impacto potencial positivo y alcance bien planteado."
+    },
+    {
+      "proyecto_titulo": "Detección de audio sintético",
+      "evaluador_correo": "evaluador06@ejemplo.com",
+      "puntaje": "9.30",
+      "comentario": "El equipo identificó correctamente el problema."
+    },
+    {
+      "proyecto_titulo": "Recomendador de materiales de estudio",
+      "evaluador_correo": "evaluador07@ejemplo.com",
+      "puntaje": "7.80",
+      "comentario": "Impacto potencial positivo y alcance bien planteado."
+    },
+    {
+      "proyecto_titulo": "Recomendador de materiales de estudio",
+      "evaluador_correo": "evaluador08@ejemplo.com",
+      "puntaje": "8.90",
+      "comentario": "El equipo identificó correctamente el problema."
+    },
+    {
+      "proyecto_titulo": "Recomendador de materiales de estudio",
+      "evaluador_correo": "evaluador09@ejemplo.com",
+      "puntaje": "10.00",
+      "comentario": "Se recomienda fortalecer la evaluación de resultados."
+    },
+    {
+      "proyecto_titulo": "Análisis de opiniones sobre servicios",
+      "evaluador_correo": "evaluador10@ejemplo.com",
+      "puntaje": "8.50",
+      "comentario": "El equipo identificó correctamente el problema."
+    },
+    {
+      "proyecto_titulo": "Análisis de opiniones sobre servicios",
+      "evaluador_correo": "evaluador11@ejemplo.com",
+      "puntaje": "9.60",
+      "comentario": "Se recomienda fortalecer la evaluación de resultados."
+    },
+    {
+      "proyecto_titulo": "Análisis de opiniones sobre servicios",
+      "evaluador_correo": "evaluador12@ejemplo.com",
+      "puntaje": "6.60",
+      "comentario": "Proyecto prometedor con oportunidades de mejora."
+    },
+    {
+      "proyecto_titulo": "Identificación de plantas por imagen",
+      "evaluador_correo": "evaluador13@ejemplo.com",
+      "puntaje": "9.20",
+      "comentario": "Se recomienda fortalecer la evaluación de resultados."
+    },
+    {
+      "proyecto_titulo": "Identificación de plantas por imagen",
+      "evaluador_correo": "evaluador14@ejemplo.com",
+      "puntaje": "6.20",
+      "comentario": "Proyecto prometedor con oportunidades de mejora."
+    },
+    {
+      "proyecto_titulo": "Identificación de plantas por imagen",
+      "evaluador_correo": "evaluador15@ejemplo.com",
+      "puntaje": "7.30",
+      "comentario": "Propuesta clara y bien estructurada."
+    },
+    {
+      "proyecto_titulo": "Predicción de ocupación de estacionamientos",
+      "evaluador_correo": "evaluador16@ejemplo.com",
+      "puntaje": "9.90",
+      "comentario": "Proyecto prometedor con oportunidades de mejora."
+    },
+    {
+      "proyecto_titulo": "Predicción de ocupación de estacionamientos",
+      "evaluador_correo": "evaluador17@ejemplo.com",
+      "puntaje": "6.90",
+      "comentario": "Propuesta clara y bien estructurada."
+    },
+    {
+      "proyecto_titulo": "Predicción de ocupación de estacionamientos",
+      "evaluador_correo": "evaluador18@ejemplo.com",
+      "puntaje": "8.00",
+      "comentario": "Buena solución; podría mejorar la documentación."
+    },
+    {
+      "proyecto_titulo": "Red de apoyo para estudiantes de nuevo ingreso",
+      "evaluador_correo": "evaluador19@ejemplo.com",
+      "puntaje": "6.50",
+      "comentario": "Propuesta clara y bien estructurada."
+    },
+    {
+      "proyecto_titulo": "Red de apoyo para estudiantes de nuevo ingreso",
+      "evaluador_correo": "evaluador20@ejemplo.com",
+      "puntaje": "7.60",
+      "comentario": "Buena solución; podría mejorar la documentación."
+    },
+    {
+      "proyecto_titulo": "Red de apoyo para estudiantes de nuevo ingreso",
+      "evaluador_correo": "evaluador21@ejemplo.com",
+      "puntaje": "8.70",
+      "comentario": "La idea es pertinente y tiene potencial de aplicación."
+    },
+    {
+      "proyecto_titulo": "Banco comunitario de alimentos",
+      "evaluador_correo": "evaluador22@ejemplo.com",
+      "puntaje": "7.20",
+      "comentario": "Buena solución; podría mejorar la documentación."
+    },
+    {
+      "proyecto_titulo": "Banco comunitario de alimentos",
+      "evaluador_correo": "evaluador23@ejemplo.com",
+      "puntaje": "8.30",
+      "comentario": "La idea es pertinente y tiene potencial de aplicación."
+    },
+    {
+      "proyecto_titulo": "Banco comunitario de alimentos",
+      "evaluador_correo": "evaluador24@ejemplo.com",
+      "puntaje": "9.40",
+      "comentario": "Buen prototipo, se recomienda validar con más usuarios."
+    },
+    {
+      "proyecto_titulo": "Mapa de accesibilidad de espacios públicos",
+      "evaluador_correo": "evaluador01@ejemplo.com",
+      "puntaje": "7.90",
+      "comentario": "La idea es pertinente y tiene potencial de aplicación."
+    },
+    {
+      "proyecto_titulo": "Mapa de accesibilidad de espacios públicos",
+      "evaluador_correo": "evaluador02@ejemplo.com",
+      "puntaje": "9.00",
+      "comentario": "Buen prototipo, se recomienda validar con más usuarios."
+    },
+    {
+      "proyecto_titulo": "Mapa de accesibilidad de espacios públicos",
+      "evaluador_correo": "evaluador03@ejemplo.com",
+      "puntaje": "6.00",
+      "comentario": "Presentación sólida y objetivos bien definidos."
+    },
+    {
+      "proyecto_titulo": "Talleres digitales para adultos mayores",
+      "evaluador_correo": "evaluador04@ejemplo.com",
+      "puntaje": "8.60",
+      "comentario": "Buen prototipo, se recomienda validar con más usuarios."
+    },
+    {
+      "proyecto_titulo": "Talleres digitales para adultos mayores",
+      "evaluador_correo": "evaluador05@ejemplo.com",
+      "puntaje": "9.70",
+      "comentario": "Presentación sólida y objetivos bien definidos."
+    },
+    {
+      "proyecto_titulo": "Talleres digitales para adultos mayores",
+      "evaluador_correo": "evaluador06@ejemplo.com",
+      "puntaje": "6.70",
+      "comentario": "Interesante enfoque técnico; falta detallar las pruebas."
+    },
+    {
+      "proyecto_titulo": "Plataforma de voluntariado local",
+      "evaluador_correo": "evaluador07@ejemplo.com",
+      "puntaje": "9.30",
+      "comentario": "Presentación sólida y objetivos bien definidos."
+    },
+    {
+      "proyecto_titulo": "Plataforma de voluntariado local",
+      "evaluador_correo": "evaluador08@ejemplo.com",
+      "puntaje": "6.30",
+      "comentario": "Interesante enfoque técnico; falta detallar las pruebas."
+    },
+    {
+      "proyecto_titulo": "Plataforma de voluntariado local",
+      "evaluador_correo": "evaluador09@ejemplo.com",
+      "puntaje": "7.40",
+      "comentario": "Impacto potencial positivo y alcance bien planteado."
+    },
+    {
+      "proyecto_titulo": "Campaña para reducir desperdicio de comida",
+      "evaluador_correo": "evaluador10@ejemplo.com",
+      "puntaje": "10.00",
+      "comentario": "Interesante enfoque técnico; falta detallar las pruebas."
+    },
+    {
+      "proyecto_titulo": "Campaña para reducir desperdicio de comida",
+      "evaluador_correo": "evaluador11@ejemplo.com",
+      "puntaje": "7.00",
+      "comentario": "Impacto potencial positivo y alcance bien planteado."
+    },
+    {
+      "proyecto_titulo": "Campaña para reducir desperdicio de comida",
+      "evaluador_correo": "evaluador12@ejemplo.com",
+      "puntaje": "8.10",
+      "comentario": "El equipo identificó correctamente el problema."
+    },
+    {
+      "proyecto_titulo": "Sistema de donación de útiles escolares",
+      "evaluador_correo": "evaluador13@ejemplo.com",
+      "puntaje": "6.60",
+      "comentario": "Impacto potencial positivo y alcance bien planteado."
+    },
+    {
+      "proyecto_titulo": "Sistema de donación de útiles escolares",
+      "evaluador_correo": "evaluador14@ejemplo.com",
+      "puntaje": "7.70",
+      "comentario": "El equipo identificó correctamente el problema."
+    },
+    {
+      "proyecto_titulo": "Sistema de donación de útiles escolares",
+      "evaluador_correo": "evaluador15@ejemplo.com",
+      "puntaje": "8.80",
+      "comentario": "Se recomienda fortalecer la evaluación de resultados."
+    },
+    {
+      "proyecto_titulo": "Directorio de servicios de salud comunitaria",
+      "evaluador_correo": "evaluador16@ejemplo.com",
+      "puntaje": "7.30",
+      "comentario": "El equipo identificó correctamente el problema."
+    },
+    {
+      "proyecto_titulo": "Directorio de servicios de salud comunitaria",
+      "evaluador_correo": "evaluador17@ejemplo.com",
+      "puntaje": "8.40",
+      "comentario": "Se recomienda fortalecer la evaluación de resultados."
+    },
+    {
+      "proyecto_titulo": "Directorio de servicios de salud comunitaria",
+      "evaluador_correo": "evaluador18@ejemplo.com",
+      "puntaje": "9.50",
+      "comentario": "Proyecto prometedor con oportunidades de mejora."
+    },
+    {
+      "proyecto_titulo": "Programa de alfabetización tecnológica",
+      "evaluador_correo": "evaluador19@ejemplo.com",
+      "puntaje": "8.00",
+      "comentario": "Se recomienda fortalecer la evaluación de resultados."
+    },
+    {
+      "proyecto_titulo": "Programa de alfabetización tecnológica",
+      "evaluador_correo": "evaluador20@ejemplo.com",
+      "puntaje": "9.10",
+      "comentario": "Proyecto prometedor con oportunidades de mejora."
+    },
+    {
+      "proyecto_titulo": "Programa de alfabetización tecnológica",
+      "evaluador_correo": "evaluador21@ejemplo.com",
+      "puntaje": "6.10",
+      "comentario": "Propuesta clara y bien estructurada."
+    },
+    {
+      "proyecto_titulo": "Huerto comunitario con seguimiento digital",
+      "evaluador_correo": "evaluador22@ejemplo.com",
+      "puntaje": "8.70",
+      "comentario": "Proyecto prometedor con oportunidades de mejora."
+    },
+    {
+      "proyecto_titulo": "Huerto comunitario con seguimiento digital",
+      "evaluador_correo": "evaluador23@ejemplo.com",
+      "puntaje": "9.80",
+      "comentario": "Propuesta clara y bien estructurada."
+    },
+    {
+      "proyecto_titulo": "Huerto comunitario con seguimiento digital",
+      "evaluador_correo": "evaluador24@ejemplo.com",
+      "puntaje": "6.80",
+      "comentario": "Buena solución; podría mejorar la documentación."
+    },
+    {
+      "proyecto_titulo": "Plataforma de tutorías entre estudiantes: edición 2",
+      "evaluador_correo": "evaluador01@ejemplo.com",
+      "puntaje": "9.40",
+      "comentario": "Propuesta clara y bien estructurada."
+    },
+    {
+      "proyecto_titulo": "Plataforma de tutorías entre estudiantes: edición 2",
+      "evaluador_correo": "evaluador02@ejemplo.com",
+      "puntaje": "6.40",
+      "comentario": "Buena solución; podría mejorar la documentación."
+    },
+    {
+      "proyecto_titulo": "Plataforma de tutorías entre estudiantes: edición 2",
+      "evaluador_correo": "evaluador03@ejemplo.com",
+      "puntaje": "7.50",
+      "comentario": "La idea es pertinente y tiene potencial de aplicación."
+    },
+    {
+      "proyecto_titulo": "Sistema de préstamo de equipo universitario: edición 2",
+      "evaluador_correo": "evaluador04@ejemplo.com",
+      "puntaje": "6.00",
+      "comentario": "Buena solución; podría mejorar la documentación."
+    },
+    {
+      "proyecto_titulo": "Sistema de préstamo de equipo universitario: edición 2",
+      "evaluador_correo": "evaluador05@ejemplo.com",
+      "puntaje": "7.10",
+      "comentario": "La idea es pertinente y tiene potencial de aplicación."
+    },
+    {
+      "proyecto_titulo": "Sistema de préstamo de equipo universitario: edición 2",
+      "evaluador_correo": "evaluador06@ejemplo.com",
+      "puntaje": "8.20",
+      "comentario": "Buen prototipo, se recomienda validar con más usuarios."
+    },
+    {
+      "proyecto_titulo": "Aplicación para organizar tareas académicas: edición 2",
+      "evaluador_correo": "evaluador07@ejemplo.com",
+      "puntaje": "6.70",
+      "comentario": "La idea es pertinente y tiene potencial de aplicación."
+    },
+    {
+      "proyecto_titulo": "Aplicación para organizar tareas académicas: edición 2",
+      "evaluador_correo": "evaluador08@ejemplo.com",
+      "puntaje": "7.80",
+      "comentario": "Buen prototipo, se recomienda validar con más usuarios."
+    },
+    {
+      "proyecto_titulo": "Aplicación para organizar tareas académicas: edición 2",
+      "evaluador_correo": "evaluador09@ejemplo.com",
+      "puntaje": "8.90",
+      "comentario": "Presentación sólida y objetivos bien definidos."
+    },
+    {
+      "proyecto_titulo": "Gestor digital de servicio social: edición 2",
+      "evaluador_correo": "evaluador10@ejemplo.com",
+      "puntaje": "7.40",
+      "comentario": "Buen prototipo, se recomienda validar con más usuarios."
+    },
+    {
+      "proyecto_titulo": "Gestor digital de servicio social: edición 2",
+      "evaluador_correo": "evaluador11@ejemplo.com",
+      "puntaje": "8.50",
+      "comentario": "Presentación sólida y objetivos bien definidos."
+    },
+    {
+      "proyecto_titulo": "Gestor digital de servicio social: edición 2",
+      "evaluador_correo": "evaluador12@ejemplo.com",
+      "puntaje": "9.60",
+      "comentario": "Interesante enfoque técnico; falta detallar las pruebas."
+    },
+    {
+      "proyecto_titulo": "Sistema de inventario para laboratorios: edición 2",
+      "evaluador_correo": "evaluador13@ejemplo.com",
+      "puntaje": "8.10",
+      "comentario": "Presentación sólida y objetivos bien definidos."
+    },
+    {
+      "proyecto_titulo": "Sistema de inventario para laboratorios: edición 2",
+      "evaluador_correo": "evaluador14@ejemplo.com",
+      "puntaje": "9.20",
+      "comentario": "Interesante enfoque técnico; falta detallar las pruebas."
+    },
+    {
+      "proyecto_titulo": "Sistema de inventario para laboratorios: edición 2",
+      "evaluador_correo": "evaluador15@ejemplo.com",
+      "puntaje": "6.20",
+      "comentario": "Impacto potencial positivo y alcance bien planteado."
+    },
+    {
+      "proyecto_titulo": "Aplicación de rutas seguras en campus: edición 2",
+      "evaluador_correo": "evaluador16@ejemplo.com",
+      "puntaje": "8.80",
+      "comentario": "Interesante enfoque técnico; falta detallar las pruebas."
+    },
+    {
+      "proyecto_titulo": "Aplicación de rutas seguras en campus: edición 2",
+      "evaluador_correo": "evaluador17@ejemplo.com",
+      "puntaje": "9.90",
+      "comentario": "Impacto potencial positivo y alcance bien planteado."
+    },
+    {
+      "proyecto_titulo": "Aplicación de rutas seguras en campus: edición 2",
+      "evaluador_correo": "evaluador18@ejemplo.com",
+      "puntaje": "6.90",
+      "comentario": "El equipo identificó correctamente el problema."
+    },
+    {
+      "proyecto_titulo": "Plataforma de intercambio de libros: edición 2",
+      "evaluador_correo": "evaluador19@ejemplo.com",
+      "puntaje": "9.50",
+      "comentario": "Impacto potencial positivo y alcance bien planteado."
+    },
+    {
+      "proyecto_titulo": "Plataforma de intercambio de libros: edición 2",
+      "evaluador_correo": "evaluador20@ejemplo.com",
+      "puntaje": "6.50",
+      "comentario": "El equipo identificó correctamente el problema."
+    },
+    {
+      "proyecto_titulo": "Plataforma de intercambio de libros: edición 2",
+      "evaluador_correo": "evaluador21@ejemplo.com",
+      "puntaje": "7.60",
+      "comentario": "Se recomienda fortalecer la evaluación de resultados."
+    },
+    {
+      "proyecto_titulo": "Sistema de reservación de salas: edición 2",
+      "evaluador_correo": "evaluador22@ejemplo.com",
+      "puntaje": "6.10",
+      "comentario": "El equipo identificó correctamente el problema."
+    },
+    {
+      "proyecto_titulo": "Sistema de reservación de salas: edición 2",
+      "evaluador_correo": "evaluador23@ejemplo.com",
+      "puntaje": "7.20",
+      "comentario": "Se recomienda fortalecer la evaluación de resultados."
+    },
+    {
+      "proyecto_titulo": "Sistema de reservación de salas: edición 2",
+      "evaluador_correo": "evaluador24@ejemplo.com",
+      "puntaje": "8.30",
+      "comentario": "Proyecto prometedor con oportunidades de mejora."
+    },
+    {
+      "proyecto_titulo": "Aplicación para reportar incidencias: edición 2",
+      "evaluador_correo": "evaluador01@ejemplo.com",
+      "puntaje": "6.80",
+      "comentario": "Se recomienda fortalecer la evaluación de resultados."
+    },
+    {
+      "proyecto_titulo": "Aplicación para reportar incidencias: edición 2",
+      "evaluador_correo": "evaluador02@ejemplo.com",
+      "puntaje": "7.90",
+      "comentario": "Proyecto prometedor con oportunidades de mejora."
+    },
+    {
+      "proyecto_titulo": "Aplicación para reportar incidencias: edición 2",
+      "evaluador_correo": "evaluador03@ejemplo.com",
+      "puntaje": "9.00",
+      "comentario": "Propuesta clara y bien estructurada."
+    },
+    {
+      "proyecto_titulo": "Portal de seguimiento de proyectos: edición 2",
+      "evaluador_correo": "evaluador04@ejemplo.com",
+      "puntaje": "7.50",
+      "comentario": "Proyecto prometedor con oportunidades de mejora."
+    },
+    {
+      "proyecto_titulo": "Portal de seguimiento de proyectos: edición 2",
+      "evaluador_correo": "evaluador05@ejemplo.com",
+      "puntaje": "8.60",
+      "comentario": "Propuesta clara y bien estructurada."
+    },
+    {
+      "proyecto_titulo": "Portal de seguimiento de proyectos: edición 2",
+      "evaluador_correo": "evaluador06@ejemplo.com",
+      "puntaje": "9.70",
+      "comentario": "Buena solución; podría mejorar la documentación."
+    },
+    {
+      "proyecto_titulo": "Estación meteorológica de bajo costo: edición 2",
+      "evaluador_correo": "evaluador07@ejemplo.com",
+      "puntaje": "8.20",
+      "comentario": "Propuesta clara y bien estructurada."
+    },
+    {
+      "proyecto_titulo": "Estación meteorológica de bajo costo: edición 2",
+      "evaluador_correo": "evaluador08@ejemplo.com",
+      "puntaje": "9.30",
+      "comentario": "Buena solución; podría mejorar la documentación."
+    },
+    {
+      "proyecto_titulo": "Estación meteorológica de bajo costo: edición 2",
+      "evaluador_correo": "evaluador09@ejemplo.com",
+      "puntaje": "6.30",
+      "comentario": "La idea es pertinente y tiene potencial de aplicación."
+    },
+    {
+      "proyecto_titulo": "Contenedor inteligente para reciclaje: edición 2",
+      "evaluador_correo": "evaluador10@ejemplo.com",
+      "puntaje": "8.90",
+      "comentario": "Buena solución; podría mejorar la documentación."
+    },
+    {
+      "proyecto_titulo": "Contenedor inteligente para reciclaje: edición 2",
+      "evaluador_correo": "evaluador11@ejemplo.com",
+      "puntaje": "10.00",
+      "comentario": "La idea es pertinente y tiene potencial de aplicación."
+    },
+    {
+      "proyecto_titulo": "Contenedor inteligente para reciclaje: edición 2",
+      "evaluador_correo": "evaluador12@ejemplo.com",
+      "puntaje": "7.00",
+      "comentario": "Buen prototipo, se recomienda validar con más usuarios."
+    },
+    {
+      "proyecto_titulo": "Sensor de calidad del aire: edición 2",
+      "evaluador_correo": "evaluador13@ejemplo.com",
+      "puntaje": "9.60",
+      "comentario": "La idea es pertinente y tiene potencial de aplicación."
+    },
+    {
+      "proyecto_titulo": "Sensor de calidad del aire: edición 2",
+      "evaluador_correo": "evaluador14@ejemplo.com",
+      "puntaje": "6.60",
+      "comentario": "Buen prototipo, se recomienda validar con más usuarios."
+    },
+    {
+      "proyecto_titulo": "Sensor de calidad del aire: edición 2",
+      "evaluador_correo": "evaluador15@ejemplo.com",
+      "puntaje": "7.70",
+      "comentario": "Presentación sólida y objetivos bien definidos."
+    },
+    {
+      "proyecto_titulo": "Sistema de riego automatizado: edición 2",
+      "evaluador_correo": "evaluador16@ejemplo.com",
+      "puntaje": "6.20",
+      "comentario": "Buen prototipo, se recomienda validar con más usuarios."
+    },
+    {
+      "proyecto_titulo": "Sistema de riego automatizado: edición 2",
+      "evaluador_correo": "evaluador17@ejemplo.com",
+      "puntaje": "7.30",
+      "comentario": "Presentación sólida y objetivos bien definidos."
+    },
+    {
+      "proyecto_titulo": "Sistema de riego automatizado: edición 2",
+      "evaluador_correo": "evaluador18@ejemplo.com",
+      "puntaje": "8.40",
+      "comentario": "Interesante enfoque técnico; falta detallar las pruebas."
+    },
+    {
+      "proyecto_titulo": "Bastón electrónico para orientación: edición 2",
+      "evaluador_correo": "evaluador19@ejemplo.com",
+      "puntaje": "6.90",
+      "comentario": "Presentación sólida y objetivos bien definidos."
+    },
+    {
+      "proyecto_titulo": "Bastón electrónico para orientación: edición 2",
+      "evaluador_correo": "evaluador20@ejemplo.com",
+      "puntaje": "8.00",
+      "comentario": "Interesante enfoque técnico; falta detallar las pruebas."
+    },
+    {
+      "proyecto_titulo": "Bastón electrónico para orientación: edición 2",
+      "evaluador_correo": "evaluador21@ejemplo.com",
+      "puntaje": "9.10",
+      "comentario": "Impacto potencial positivo y alcance bien planteado."
+    },
+    {
+      "proyecto_titulo": "Monitor de consumo eléctrico: edición 2",
+      "evaluador_correo": "evaluador22@ejemplo.com",
+      "puntaje": "7.60",
+      "comentario": "Interesante enfoque técnico; falta detallar las pruebas."
+    },
+    {
+      "proyecto_titulo": "Monitor de consumo eléctrico: edición 2",
+      "evaluador_correo": "evaluador23@ejemplo.com",
+      "puntaje": "8.70",
+      "comentario": "Impacto potencial positivo y alcance bien planteado."
+    },
+    {
+      "proyecto_titulo": "Monitor de consumo eléctrico: edición 2",
+      "evaluador_correo": "evaluador24@ejemplo.com",
+      "puntaje": "9.80",
+      "comentario": "El equipo identificó correctamente el problema."
+    },
+    {
+      "proyecto_titulo": "Dispositivo para medir ruido ambiental: edición 2",
+      "evaluador_correo": "evaluador01@ejemplo.com",
+      "puntaje": "8.30",
+      "comentario": "Impacto potencial positivo y alcance bien planteado."
+    },
+    {
+      "proyecto_titulo": "Dispositivo para medir ruido ambiental: edición 2",
+      "evaluador_correo": "evaluador02@ejemplo.com",
+      "puntaje": "9.40",
+      "comentario": "El equipo identificó correctamente el problema."
+    },
+    {
+      "proyecto_titulo": "Dispositivo para medir ruido ambiental: edición 2",
+      "evaluador_correo": "evaluador03@ejemplo.com",
+      "puntaje": "6.40",
+      "comentario": "Se recomienda fortalecer la evaluación de resultados."
+    },
+    {
+      "proyecto_titulo": "Prototipo de iluminación inteligente: edición 2",
+      "evaluador_correo": "evaluador04@ejemplo.com",
+      "puntaje": "9.00",
+      "comentario": "El equipo identificó correctamente el problema."
+    },
+    {
+      "proyecto_titulo": "Prototipo de iluminación inteligente: edición 2",
+      "evaluador_correo": "evaluador05@ejemplo.com",
+      "puntaje": "6.00",
+      "comentario": "Se recomienda fortalecer la evaluación de resultados."
+    },
+    {
+      "proyecto_titulo": "Prototipo de iluminación inteligente: edición 2",
+      "evaluador_correo": "evaluador06@ejemplo.com",
+      "puntaje": "7.10",
+      "comentario": "Proyecto prometedor con oportunidades de mejora."
+    },
+    {
+      "proyecto_titulo": "Pulsera de alerta para emergencias: edición 2",
+      "evaluador_correo": "evaluador07@ejemplo.com",
+      "puntaje": "9.70",
+      "comentario": "Se recomienda fortalecer la evaluación de resultados."
+    },
+    {
+      "proyecto_titulo": "Pulsera de alerta para emergencias: edición 2",
+      "evaluador_correo": "evaluador08@ejemplo.com",
+      "puntaje": "6.70",
+      "comentario": "Proyecto prometedor con oportunidades de mejora."
+    },
+    {
+      "proyecto_titulo": "Pulsera de alerta para emergencias: edición 2",
+      "evaluador_correo": "evaluador09@ejemplo.com",
+      "puntaje": "7.80",
+      "comentario": "Propuesta clara y bien estructurada."
+    },
+    {
+      "proyecto_titulo": "Cerradura electrónica para laboratorios: edición 2",
+      "evaluador_correo": "evaluador10@ejemplo.com",
+      "puntaje": "6.30",
+      "comentario": "Proyecto prometedor con oportunidades de mejora."
+    },
+    {
+      "proyecto_titulo": "Cerradura electrónica para laboratorios: edición 2",
+      "evaluador_correo": "evaluador11@ejemplo.com",
+      "puntaje": "7.40",
+      "comentario": "Propuesta clara y bien estructurada."
+    },
+    {
+      "proyecto_titulo": "Cerradura electrónica para laboratorios: edición 2",
+      "evaluador_correo": "evaluador12@ejemplo.com",
+      "puntaje": "8.50",
+      "comentario": "Buena solución; podría mejorar la documentación."
+    },
+    {
+      "proyecto_titulo": "Clasificador de residuos con visión artificial: edición 2",
+      "evaluador_correo": "evaluador13@ejemplo.com",
+      "puntaje": "7.00",
+      "comentario": "Propuesta clara y bien estructurada."
+    },
+    {
+      "proyecto_titulo": "Clasificador de residuos con visión artificial: edición 2",
+      "evaluador_correo": "evaluador14@ejemplo.com",
+      "puntaje": "8.10",
+      "comentario": "Buena solución; podría mejorar la documentación."
+    },
+    {
+      "proyecto_titulo": "Clasificador de residuos con visión artificial: edición 2",
+      "evaluador_correo": "evaluador15@ejemplo.com",
+      "puntaje": "9.20",
+      "comentario": "La idea es pertinente y tiene potencial de aplicación."
+    },
+    {
+      "proyecto_titulo": "Asistente virtual para dudas escolares: edición 2",
+      "evaluador_correo": "evaluador16@ejemplo.com",
+      "puntaje": "7.70",
+      "comentario": "Buena solución; podría mejorar la documentación."
+    },
+    {
+      "proyecto_titulo": "Asistente virtual para dudas escolares: edición 2",
+      "evaluador_correo": "evaluador17@ejemplo.com",
+      "puntaje": "8.80",
+      "comentario": "La idea es pertinente y tiene potencial de aplicación."
+    },
+    {
+      "proyecto_titulo": "Asistente virtual para dudas escolares: edición 2",
+      "evaluador_correo": "evaluador18@ejemplo.com",
+      "puntaje": "9.90",
+      "comentario": "Buen prototipo, se recomienda validar con más usuarios."
+    },
+    {
+      "proyecto_titulo": "Detector de noticias falsas en español: edición 2",
+      "evaluador_correo": "evaluador19@ejemplo.com",
+      "puntaje": "8.40",
+      "comentario": "La idea es pertinente y tiene potencial de aplicación."
+    },
+    {
+      "proyecto_titulo": "Detector de noticias falsas en español: edición 2",
+      "evaluador_correo": "evaluador20@ejemplo.com",
+      "puntaje": "9.50",
+      "comentario": "Buen prototipo, se recomienda validar con más usuarios."
+    },
+    {
+      "proyecto_titulo": "Detector de noticias falsas en español: edición 2",
+      "evaluador_correo": "evaluador21@ejemplo.com",
+      "puntaje": "6.50",
+      "comentario": "Presentación sólida y objetivos bien definidos."
+    },
+    {
+      "proyecto_titulo": "Modelo para predecir demanda energética: edición 2",
+      "evaluador_correo": "evaluador22@ejemplo.com",
+      "puntaje": "9.10",
+      "comentario": "Buen prototipo, se recomienda validar con más usuarios."
+    },
+    {
+      "proyecto_titulo": "Modelo para predecir demanda energética: edición 2",
+      "evaluador_correo": "evaluador23@ejemplo.com",
+      "puntaje": "6.10",
+      "comentario": "Presentación sólida y objetivos bien definidos."
+    },
+    {
+      "proyecto_titulo": "Modelo para predecir demanda energética: edición 2",
+      "evaluador_correo": "evaluador24@ejemplo.com",
+      "puntaje": "7.20",
+      "comentario": "Interesante enfoque técnico; falta detallar las pruebas."
+    },
+    {
+      "proyecto_titulo": "Reconocimiento de señas mediante cámara: edición 2",
+      "evaluador_correo": "evaluador01@ejemplo.com",
+      "puntaje": "9.80",
+      "comentario": "Presentación sólida y objetivos bien definidos."
+    },
+    {
+      "proyecto_titulo": "Reconocimiento de señas mediante cámara: edición 2",
+      "evaluador_correo": "evaluador02@ejemplo.com",
+      "puntaje": "6.80",
+      "comentario": "Interesante enfoque técnico; falta detallar las pruebas."
+    },
+    {
+      "proyecto_titulo": "Reconocimiento de señas mediante cámara: edición 2",
+      "evaluador_correo": "evaluador03@ejemplo.com",
+      "puntaje": "7.90",
+      "comentario": "Impacto potencial positivo y alcance bien planteado."
+    },
+    {
+      "proyecto_titulo": "Detección de audio sintético: edición 2",
+      "evaluador_correo": "evaluador04@ejemplo.com",
+      "puntaje": "6.40",
+      "comentario": "Interesante enfoque técnico; falta detallar las pruebas."
+    },
+    {
+      "proyecto_titulo": "Detección de audio sintético: edición 2",
+      "evaluador_correo": "evaluador05@ejemplo.com",
+      "puntaje": "7.50",
+      "comentario": "Impacto potencial positivo y alcance bien planteado."
+    },
+    {
+      "proyecto_titulo": "Detección de audio sintético: edición 2",
+      "evaluador_correo": "evaluador06@ejemplo.com",
+      "puntaje": "8.60",
+      "comentario": "El equipo identificó correctamente el problema."
+    },
+    {
+      "proyecto_titulo": "Recomendador de materiales de estudio: edición 2",
+      "evaluador_correo": "evaluador07@ejemplo.com",
+      "puntaje": "7.10",
+      "comentario": "Impacto potencial positivo y alcance bien planteado."
+    },
+    {
+      "proyecto_titulo": "Recomendador de materiales de estudio: edición 2",
+      "evaluador_correo": "evaluador08@ejemplo.com",
+      "puntaje": "8.20",
+      "comentario": "El equipo identificó correctamente el problema."
+    },
+    {
+      "proyecto_titulo": "Recomendador de materiales de estudio: edición 2",
+      "evaluador_correo": "evaluador09@ejemplo.com",
+      "puntaje": "9.30",
+      "comentario": "Se recomienda fortalecer la evaluación de resultados."
+    },
+    {
+      "proyecto_titulo": "Análisis de opiniones sobre servicios: edición 2",
+      "evaluador_correo": "evaluador10@ejemplo.com",
+      "puntaje": "7.80",
+      "comentario": "El equipo identificó correctamente el problema."
+    },
+    {
+      "proyecto_titulo": "Análisis de opiniones sobre servicios: edición 2",
+      "evaluador_correo": "evaluador11@ejemplo.com",
+      "puntaje": "8.90",
+      "comentario": "Se recomienda fortalecer la evaluación de resultados."
+    },
+    {
+      "proyecto_titulo": "Análisis de opiniones sobre servicios: edición 2",
+      "evaluador_correo": "evaluador12@ejemplo.com",
+      "puntaje": "10.00",
+      "comentario": "Proyecto prometedor con oportunidades de mejora."
+    },
+    {
+      "proyecto_titulo": "Identificación de plantas por imagen: edición 2",
+      "evaluador_correo": "evaluador13@ejemplo.com",
+      "puntaje": "8.50",
+      "comentario": "Se recomienda fortalecer la evaluación de resultados."
+    },
+    {
+      "proyecto_titulo": "Identificación de plantas por imagen: edición 2",
+      "evaluador_correo": "evaluador14@ejemplo.com",
+      "puntaje": "9.60",
+      "comentario": "Proyecto prometedor con oportunidades de mejora."
+    },
+    {
+      "proyecto_titulo": "Identificación de plantas por imagen: edición 2",
+      "evaluador_correo": "evaluador15@ejemplo.com",
+      "puntaje": "6.60",
+      "comentario": "Propuesta clara y bien estructurada."
+    },
+    {
+      "proyecto_titulo": "Predicción de ocupación de estacionamientos: edición 2",
+      "evaluador_correo": "evaluador16@ejemplo.com",
+      "puntaje": "9.20",
+      "comentario": "Proyecto prometedor con oportunidades de mejora."
+    },
+    {
+      "proyecto_titulo": "Predicción de ocupación de estacionamientos: edición 2",
+      "evaluador_correo": "evaluador17@ejemplo.com",
+      "puntaje": "6.20",
+      "comentario": "Propuesta clara y bien estructurada."
+    },
+    {
+      "proyecto_titulo": "Predicción de ocupación de estacionamientos: edición 2",
+      "evaluador_correo": "evaluador18@ejemplo.com",
+      "puntaje": "7.30",
+      "comentario": "Buena solución; podría mejorar la documentación."
+    },
+    {
+      "proyecto_titulo": "Red de apoyo para estudiantes de nuevo ingreso: edición 2",
+      "evaluador_correo": "evaluador19@ejemplo.com",
+      "puntaje": "9.90",
+      "comentario": "Propuesta clara y bien estructurada."
+    },
+    {
+      "proyecto_titulo": "Red de apoyo para estudiantes de nuevo ingreso: edición 2",
+      "evaluador_correo": "evaluador20@ejemplo.com",
+      "puntaje": "6.90",
+      "comentario": "Buena solución; podría mejorar la documentación."
+    },
+    {
+      "proyecto_titulo": "Red de apoyo para estudiantes de nuevo ingreso: edición 2",
+      "evaluador_correo": "evaluador21@ejemplo.com",
+      "puntaje": "8.00",
+      "comentario": "La idea es pertinente y tiene potencial de aplicación."
+    },
+    {
+      "proyecto_titulo": "Banco comunitario de alimentos: edición 2",
+      "evaluador_correo": "evaluador22@ejemplo.com",
+      "puntaje": "6.50",
+      "comentario": "Buena solución; podría mejorar la documentación."
+    },
+    {
+      "proyecto_titulo": "Banco comunitario de alimentos: edición 2",
+      "evaluador_correo": "evaluador23@ejemplo.com",
+      "puntaje": "7.60",
+      "comentario": "La idea es pertinente y tiene potencial de aplicación."
+    },
+    {
+      "proyecto_titulo": "Banco comunitario de alimentos: edición 2",
+      "evaluador_correo": "evaluador24@ejemplo.com",
+      "puntaje": "8.70",
+      "comentario": "Buen prototipo, se recomienda validar con más usuarios."
+    },
+    {
+      "proyecto_titulo": "Mapa de accesibilidad de espacios públicos: edición 2",
+      "evaluador_correo": "evaluador01@ejemplo.com",
+      "puntaje": "7.20",
+      "comentario": "La idea es pertinente y tiene potencial de aplicación."
+    },
+    {
+      "proyecto_titulo": "Mapa de accesibilidad de espacios públicos: edición 2",
+      "evaluador_correo": "evaluador02@ejemplo.com",
+      "puntaje": "8.30",
+      "comentario": "Buen prototipo, se recomienda validar con más usuarios."
+    },
+    {
+      "proyecto_titulo": "Mapa de accesibilidad de espacios públicos: edición 2",
+      "evaluador_correo": "evaluador03@ejemplo.com",
+      "puntaje": "9.40",
+      "comentario": "Presentación sólida y objetivos bien definidos."
+    },
+    {
+      "proyecto_titulo": "Talleres digitales para adultos mayores: edición 2",
+      "evaluador_correo": "evaluador04@ejemplo.com",
+      "puntaje": "7.90",
+      "comentario": "Buen prototipo, se recomienda validar con más usuarios."
+    },
+    {
+      "proyecto_titulo": "Talleres digitales para adultos mayores: edición 2",
+      "evaluador_correo": "evaluador05@ejemplo.com",
+      "puntaje": "9.00",
+      "comentario": "Presentación sólida y objetivos bien definidos."
+    },
+    {
+      "proyecto_titulo": "Talleres digitales para adultos mayores: edición 2",
+      "evaluador_correo": "evaluador06@ejemplo.com",
+      "puntaje": "6.00",
+      "comentario": "Interesante enfoque técnico; falta detallar las pruebas."
+    },
+    {
+      "proyecto_titulo": "Plataforma de voluntariado local: edición 2",
+      "evaluador_correo": "evaluador07@ejemplo.com",
+      "puntaje": "8.60",
+      "comentario": "Presentación sólida y objetivos bien definidos."
+    },
+    {
+      "proyecto_titulo": "Plataforma de voluntariado local: edición 2",
+      "evaluador_correo": "evaluador08@ejemplo.com",
+      "puntaje": "9.70",
+      "comentario": "Interesante enfoque técnico; falta detallar las pruebas."
+    },
+    {
+      "proyecto_titulo": "Plataforma de voluntariado local: edición 2",
+      "evaluador_correo": "evaluador09@ejemplo.com",
+      "puntaje": "6.70",
+      "comentario": "Impacto potencial positivo y alcance bien planteado."
+    },
+    {
+      "proyecto_titulo": "Campaña para reducir desperdicio de comida: edición 2",
+      "evaluador_correo": "evaluador10@ejemplo.com",
+      "puntaje": "9.30",
+      "comentario": "Interesante enfoque técnico; falta detallar las pruebas."
+    },
+    {
+      "proyecto_titulo": "Campaña para reducir desperdicio de comida: edición 2",
+      "evaluador_correo": "evaluador11@ejemplo.com",
+      "puntaje": "6.30",
+      "comentario": "Impacto potencial positivo y alcance bien planteado."
+    },
+    {
+      "proyecto_titulo": "Campaña para reducir desperdicio de comida: edición 2",
+      "evaluador_correo": "evaluador12@ejemplo.com",
+      "puntaje": "7.40",
+      "comentario": "El equipo identificó correctamente el problema."
+    },
+    {
+      "proyecto_titulo": "Sistema de donación de útiles escolares: edición 2",
+      "evaluador_correo": "evaluador13@ejemplo.com",
+      "puntaje": "10.00",
+      "comentario": "Impacto potencial positivo y alcance bien planteado."
+    },
+    {
+      "proyecto_titulo": "Sistema de donación de útiles escolares: edición 2",
+      "evaluador_correo": "evaluador14@ejemplo.com",
+      "puntaje": "7.00",
+      "comentario": "El equipo identificó correctamente el problema."
+    },
+    {
+      "proyecto_titulo": "Sistema de donación de útiles escolares: edición 2",
+      "evaluador_correo": "evaluador15@ejemplo.com",
+      "puntaje": "8.10",
+      "comentario": "Se recomienda fortalecer la evaluación de resultados."
+    },
+    {
+      "proyecto_titulo": "Directorio de servicios de salud comunitaria: edición 2",
+      "evaluador_correo": "evaluador16@ejemplo.com",
+      "puntaje": "6.60",
+      "comentario": "El equipo identificó correctamente el problema."
+    },
+    {
+      "proyecto_titulo": "Directorio de servicios de salud comunitaria: edición 2",
+      "evaluador_correo": "evaluador17@ejemplo.com",
+      "puntaje": "7.70",
+      "comentario": "Se recomienda fortalecer la evaluación de resultados."
+    },
+    {
+      "proyecto_titulo": "Directorio de servicios de salud comunitaria: edición 2",
+      "evaluador_correo": "evaluador18@ejemplo.com",
+      "puntaje": "8.80",
+      "comentario": "Proyecto prometedor con oportunidades de mejora."
+    },
+    {
+      "proyecto_titulo": "Programa de alfabetización tecnológica: edición 2",
+      "evaluador_correo": "evaluador19@ejemplo.com",
+      "puntaje": "7.30",
+      "comentario": "Se recomienda fortalecer la evaluación de resultados."
+    },
+    {
+      "proyecto_titulo": "Programa de alfabetización tecnológica: edición 2",
+      "evaluador_correo": "evaluador20@ejemplo.com",
+      "puntaje": "8.40",
+      "comentario": "Proyecto prometedor con oportunidades de mejora."
+    },
+    {
+      "proyecto_titulo": "Programa de alfabetización tecnológica: edición 2",
+      "evaluador_correo": "evaluador21@ejemplo.com",
+      "puntaje": "9.50",
+      "comentario": "Propuesta clara y bien estructurada."
+    },
+    {
+      "proyecto_titulo": "Huerto comunitario con seguimiento digital: edición 2",
+      "evaluador_correo": "evaluador22@ejemplo.com",
+      "puntaje": "8.00",
+      "comentario": "Proyecto prometedor con oportunidades de mejora."
+    },
+    {
+      "proyecto_titulo": "Huerto comunitario con seguimiento digital: edición 2",
+      "evaluador_correo": "evaluador23@ejemplo.com",
+      "puntaje": "9.10",
+      "comentario": "Propuesta clara y bien estructurada."
+    },
+    {
+      "proyecto_titulo": "Huerto comunitario con seguimiento digital: edición 2",
+      "evaluador_correo": "evaluador24@ejemplo.com",
+      "puntaje": "6.10",
+      "comentario": "Buena solución; podría mejorar la documentación."
+    },
+    {
+      "proyecto_titulo": "Plataforma de tutorías entre estudiantes inclusivo",
+      "evaluador_correo": "evaluador01@ejemplo.com",
+      "puntaje": "8.70",
+      "comentario": "Propuesta clara y bien estructurada."
+    },
+    {
+      "proyecto_titulo": "Plataforma de tutorías entre estudiantes inclusivo",
+      "evaluador_correo": "evaluador02@ejemplo.com",
+      "puntaje": "9.80",
+      "comentario": "Buena solución; podría mejorar la documentación."
+    },
+    {
+      "proyecto_titulo": "Plataforma de tutorías entre estudiantes inclusivo",
+      "evaluador_correo": "evaluador03@ejemplo.com",
+      "puntaje": "6.80",
+      "comentario": "La idea es pertinente y tiene potencial de aplicación."
+    },
+    {
+      "proyecto_titulo": "Sistema de préstamo de equipo universitario colaborativo",
+      "evaluador_correo": "evaluador04@ejemplo.com",
+      "puntaje": "9.40",
+      "comentario": "Buena solución; podría mejorar la documentación."
+    },
+    {
+      "proyecto_titulo": "Sistema de préstamo de equipo universitario colaborativo",
+      "evaluador_correo": "evaluador05@ejemplo.com",
+      "puntaje": "6.40",
+      "comentario": "La idea es pertinente y tiene potencial de aplicación."
+    },
+    {
+      "proyecto_titulo": "Sistema de préstamo de equipo universitario colaborativo",
+      "evaluador_correo": "evaluador06@ejemplo.com",
+      "puntaje": "7.50",
+      "comentario": "Buen prototipo, se recomienda validar con más usuarios."
+    },
+    {
+      "proyecto_titulo": "Aplicación para organizar tareas académicas accesible",
+      "evaluador_correo": "evaluador07@ejemplo.com",
+      "puntaje": "6.00",
+      "comentario": "La idea es pertinente y tiene potencial de aplicación."
+    },
+    {
+      "proyecto_titulo": "Aplicación para organizar tareas académicas accesible",
+      "evaluador_correo": "evaluador08@ejemplo.com",
+      "puntaje": "7.10",
+      "comentario": "Buen prototipo, se recomienda validar con más usuarios."
+    },
+    {
+      "proyecto_titulo": "Aplicación para organizar tareas académicas accesible",
+      "evaluador_correo": "evaluador09@ejemplo.com",
+      "puntaje": "8.20",
+      "comentario": "Presentación sólida y objetivos bien definidos."
+    },
+    {
+      "proyecto_titulo": "Gestor digital de servicio social universitario",
+      "evaluador_correo": "evaluador10@ejemplo.com",
+      "puntaje": "6.70",
+      "comentario": "Buen prototipo, se recomienda validar con más usuarios."
+    },
+    {
+      "proyecto_titulo": "Gestor digital de servicio social universitario",
+      "evaluador_correo": "evaluador11@ejemplo.com",
+      "puntaje": "7.80",
+      "comentario": "Presentación sólida y objetivos bien definidos."
+    },
+    {
+      "proyecto_titulo": "Gestor digital de servicio social universitario",
+      "evaluador_correo": "evaluador12@ejemplo.com",
+      "puntaje": "8.90",
+      "comentario": "Interesante enfoque técnico; falta detallar las pruebas."
+    },
+    {
+      "proyecto_titulo": "Sistema de inventario para laboratorios comunitario",
+      "evaluador_correo": "evaluador13@ejemplo.com",
+      "puntaje": "7.40",
+      "comentario": "Presentación sólida y objetivos bien definidos."
+    },
+    {
+      "proyecto_titulo": "Sistema de inventario para laboratorios comunitario",
+      "evaluador_correo": "evaluador14@ejemplo.com",
+      "puntaje": "8.50",
+      "comentario": "Interesante enfoque técnico; falta detallar las pruebas."
+    },
+    {
+      "proyecto_titulo": "Sistema de inventario para laboratorios comunitario",
+      "evaluador_correo": "evaluador15@ejemplo.com",
+      "puntaje": "9.60",
+      "comentario": "Impacto potencial positivo y alcance bien planteado."
+    },
+    {
+      "proyecto_titulo": "Aplicación de rutas seguras en campus automatizado",
+      "evaluador_correo": "evaluador16@ejemplo.com",
+      "puntaje": "8.10",
+      "comentario": "Interesante enfoque técnico; falta detallar las pruebas."
+    },
+    {
+      "proyecto_titulo": "Aplicación de rutas seguras en campus automatizado",
+      "evaluador_correo": "evaluador17@ejemplo.com",
+      "puntaje": "9.20",
+      "comentario": "Impacto potencial positivo y alcance bien planteado."
+    },
+    {
+      "proyecto_titulo": "Aplicación de rutas seguras en campus automatizado",
+      "evaluador_correo": "evaluador18@ejemplo.com",
+      "puntaje": "6.20",
+      "comentario": "El equipo identificó correctamente el problema."
+    },
+    {
+      "proyecto_titulo": "Plataforma de intercambio de libros predictivo",
+      "evaluador_correo": "evaluador19@ejemplo.com",
+      "puntaje": "8.80",
+      "comentario": "Impacto potencial positivo y alcance bien planteado."
+    },
+    {
+      "proyecto_titulo": "Plataforma de intercambio de libros predictivo",
+      "evaluador_correo": "evaluador20@ejemplo.com",
+      "puntaje": "9.90",
+      "comentario": "El equipo identificó correctamente el problema."
+    },
+    {
+      "proyecto_titulo": "Plataforma de intercambio de libros predictivo",
+      "evaluador_correo": "evaluador21@ejemplo.com",
+      "puntaje": "6.90",
+      "comentario": "Se recomienda fortalecer la evaluación de resultados."
+    },
+    {
+      "proyecto_titulo": "Sistema de reservación de salas interactivo",
+      "evaluador_correo": "evaluador22@ejemplo.com",
+      "puntaje": "9.50",
+      "comentario": "El equipo identificó correctamente el problema."
+    },
+    {
+      "proyecto_titulo": "Sistema de reservación de salas interactivo",
+      "evaluador_correo": "evaluador23@ejemplo.com",
+      "puntaje": "6.50",
+      "comentario": "Se recomienda fortalecer la evaluación de resultados."
+    },
+    {
+      "proyecto_titulo": "Sistema de reservación de salas interactivo",
+      "evaluador_correo": "evaluador24@ejemplo.com",
+      "puntaje": "7.60",
+      "comentario": "Proyecto prometedor con oportunidades de mejora."
+    },
+    {
+      "proyecto_titulo": "Aplicación para reportar incidencias sostenible",
+      "evaluador_correo": "evaluador01@ejemplo.com",
+      "puntaje": "6.10",
+      "comentario": "Se recomienda fortalecer la evaluación de resultados."
+    },
+    {
+      "proyecto_titulo": "Aplicación para reportar incidencias sostenible",
+      "evaluador_correo": "evaluador02@ejemplo.com",
+      "puntaje": "7.20",
+      "comentario": "Proyecto prometedor con oportunidades de mejora."
+    },
+    {
+      "proyecto_titulo": "Aplicación para reportar incidencias sostenible",
+      "evaluador_correo": "evaluador03@ejemplo.com",
+      "puntaje": "8.30",
+      "comentario": "Propuesta clara y bien estructurada."
+    },
+    {
+      "proyecto_titulo": "Portal de seguimiento de proyectos inteligente",
+      "evaluador_correo": "evaluador04@ejemplo.com",
+      "puntaje": "6.80",
+      "comentario": "Proyecto prometedor con oportunidades de mejora."
+    },
+    {
+      "proyecto_titulo": "Portal de seguimiento de proyectos inteligente",
+      "evaluador_correo": "evaluador05@ejemplo.com",
+      "puntaje": "7.90",
+      "comentario": "Propuesta clara y bien estructurada."
+    },
+    {
+      "proyecto_titulo": "Portal de seguimiento de proyectos inteligente",
+      "evaluador_correo": "evaluador06@ejemplo.com",
+      "puntaje": "9.00",
+      "comentario": "Buena solución; podría mejorar la documentación."
+    },
+    {
+      "proyecto_titulo": "Estación meteorológica de bajo costo inclusivo",
+      "evaluador_correo": "evaluador07@ejemplo.com",
+      "puntaje": "7.50",
+      "comentario": "Propuesta clara y bien estructurada."
+    },
+    {
+      "proyecto_titulo": "Estación meteorológica de bajo costo inclusivo",
+      "evaluador_correo": "evaluador08@ejemplo.com",
+      "puntaje": "8.60",
+      "comentario": "Buena solución; podría mejorar la documentación."
+    },
+    {
+      "proyecto_titulo": "Estación meteorológica de bajo costo inclusivo",
+      "evaluador_correo": "evaluador09@ejemplo.com",
+      "puntaje": "9.70",
+      "comentario": "La idea es pertinente y tiene potencial de aplicación."
+    },
+    {
+      "proyecto_titulo": "Contenedor inteligente para reciclaje colaborativo",
+      "evaluador_correo": "evaluador10@ejemplo.com",
+      "puntaje": "8.20",
+      "comentario": "Buena solución; podría mejorar la documentación."
+    },
+    {
+      "proyecto_titulo": "Contenedor inteligente para reciclaje colaborativo",
+      "evaluador_correo": "evaluador11@ejemplo.com",
+      "puntaje": "9.30",
+      "comentario": "La idea es pertinente y tiene potencial de aplicación."
+    },
+    {
+      "proyecto_titulo": "Contenedor inteligente para reciclaje colaborativo",
+      "evaluador_correo": "evaluador12@ejemplo.com",
+      "puntaje": "6.30",
+      "comentario": "Buen prototipo, se recomienda validar con más usuarios."
+    },
+    {
+      "proyecto_titulo": "Sensor de calidad del aire accesible",
+      "evaluador_correo": "evaluador13@ejemplo.com",
+      "puntaje": "8.90",
+      "comentario": "La idea es pertinente y tiene potencial de aplicación."
+    },
+    {
+      "proyecto_titulo": "Sensor de calidad del aire accesible",
+      "evaluador_correo": "evaluador14@ejemplo.com",
+      "puntaje": "10.00",
+      "comentario": "Buen prototipo, se recomienda validar con más usuarios."
+    },
+    {
+      "proyecto_titulo": "Sensor de calidad del aire accesible",
+      "evaluador_correo": "evaluador15@ejemplo.com",
+      "puntaje": "7.00",
+      "comentario": "Presentación sólida y objetivos bien definidos."
+    },
+    {
+      "proyecto_titulo": "Sistema de riego automatizado universitario",
+      "evaluador_correo": "evaluador16@ejemplo.com",
+      "puntaje": "9.60",
+      "comentario": "Buen prototipo, se recomienda validar con más usuarios."
+    },
+    {
+      "proyecto_titulo": "Sistema de riego automatizado universitario",
+      "evaluador_correo": "evaluador17@ejemplo.com",
+      "puntaje": "6.60",
+      "comentario": "Presentación sólida y objetivos bien definidos."
+    },
+    {
+      "proyecto_titulo": "Sistema de riego automatizado universitario",
+      "evaluador_correo": "evaluador18@ejemplo.com",
+      "puntaje": "7.70",
+      "comentario": "Interesante enfoque técnico; falta detallar las pruebas."
+    },
+    {
+      "proyecto_titulo": "Bastón electrónico para orientación comunitario",
+      "evaluador_correo": "evaluador19@ejemplo.com",
+      "puntaje": "6.20",
+      "comentario": "Presentación sólida y objetivos bien definidos."
+    },
+    {
+      "proyecto_titulo": "Bastón electrónico para orientación comunitario",
+      "evaluador_correo": "evaluador20@ejemplo.com",
+      "puntaje": "7.30",
+      "comentario": "Interesante enfoque técnico; falta detallar las pruebas."
+    },
+    {
+      "proyecto_titulo": "Bastón electrónico para orientación comunitario",
+      "evaluador_correo": "evaluador21@ejemplo.com",
+      "puntaje": "8.40",
+      "comentario": "Impacto potencial positivo y alcance bien planteado."
+    },
+    {
+      "proyecto_titulo": "Monitor de consumo eléctrico automatizado",
+      "evaluador_correo": "evaluador22@ejemplo.com",
+      "puntaje": "6.90",
+      "comentario": "Interesante enfoque técnico; falta detallar las pruebas."
+    },
+    {
+      "proyecto_titulo": "Monitor de consumo eléctrico automatizado",
+      "evaluador_correo": "evaluador23@ejemplo.com",
+      "puntaje": "8.00",
+      "comentario": "Impacto potencial positivo y alcance bien planteado."
+    },
+    {
+      "proyecto_titulo": "Monitor de consumo eléctrico automatizado",
+      "evaluador_correo": "evaluador24@ejemplo.com",
+      "puntaje": "9.10",
+      "comentario": "El equipo identificó correctamente el problema."
+    },
+    {
+      "proyecto_titulo": "Dispositivo para medir ruido ambiental predictivo",
+      "evaluador_correo": "evaluador01@ejemplo.com",
+      "puntaje": "7.60",
+      "comentario": "Impacto potencial positivo y alcance bien planteado."
+    },
+    {
+      "proyecto_titulo": "Dispositivo para medir ruido ambiental predictivo",
+      "evaluador_correo": "evaluador02@ejemplo.com",
+      "puntaje": "8.70",
+      "comentario": "El equipo identificó correctamente el problema."
+    },
+    {
+      "proyecto_titulo": "Dispositivo para medir ruido ambiental predictivo",
+      "evaluador_correo": "evaluador03@ejemplo.com",
+      "puntaje": "9.80",
+      "comentario": "Se recomienda fortalecer la evaluación de resultados."
+    },
+    {
+      "proyecto_titulo": "Prototipo de iluminación inteligente interactivo",
+      "evaluador_correo": "evaluador04@ejemplo.com",
+      "puntaje": "8.30",
+      "comentario": "El equipo identificó correctamente el problema."
+    },
+    {
+      "proyecto_titulo": "Prototipo de iluminación inteligente interactivo",
+      "evaluador_correo": "evaluador05@ejemplo.com",
+      "puntaje": "9.40",
+      "comentario": "Se recomienda fortalecer la evaluación de resultados."
+    },
+    {
+      "proyecto_titulo": "Prototipo de iluminación inteligente interactivo",
+      "evaluador_correo": "evaluador06@ejemplo.com",
+      "puntaje": "6.40",
+      "comentario": "Proyecto prometedor con oportunidades de mejora."
+    },
+    {
+      "proyecto_titulo": "Pulsera de alerta para emergencias sostenible",
+      "evaluador_correo": "evaluador07@ejemplo.com",
+      "puntaje": "9.00",
+      "comentario": "Se recomienda fortalecer la evaluación de resultados."
+    },
+    {
+      "proyecto_titulo": "Pulsera de alerta para emergencias sostenible",
+      "evaluador_correo": "evaluador08@ejemplo.com",
+      "puntaje": "6.00",
+      "comentario": "Proyecto prometedor con oportunidades de mejora."
+    },
+    {
+      "proyecto_titulo": "Pulsera de alerta para emergencias sostenible",
+      "evaluador_correo": "evaluador09@ejemplo.com",
+      "puntaje": "7.10",
+      "comentario": "Propuesta clara y bien estructurada."
+    },
+    {
+      "proyecto_titulo": "Cerradura electrónica para laboratorios inteligente",
+      "evaluador_correo": "evaluador10@ejemplo.com",
+      "puntaje": "9.70",
+      "comentario": "Proyecto prometedor con oportunidades de mejora."
+    },
+    {
+      "proyecto_titulo": "Cerradura electrónica para laboratorios inteligente",
+      "evaluador_correo": "evaluador11@ejemplo.com",
+      "puntaje": "6.70",
+      "comentario": "Propuesta clara y bien estructurada."
+    },
+    {
+      "proyecto_titulo": "Cerradura electrónica para laboratorios inteligente",
+      "evaluador_correo": "evaluador12@ejemplo.com",
+      "puntaje": "7.80",
+      "comentario": "Buena solución; podría mejorar la documentación."
+    }
+  ]
+}
